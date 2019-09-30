@@ -1,8 +1,6 @@
 # Welcome to OpenFloodAI
 [![GitHub issues](https://img.shields.io/github/issues/OpenFloodAI/OpenFloodAI)](https://github.com/OpenFloodAI/OpenFloodAI/issues) [![GitHub forks](https://img.shields.io/github/forks/OpenFloodAI/OpenFloodAI)](https://github.com/OpenFloodAI/OpenFloodAI/network) [![GitHub stars](https://img.shields.io/github/stars/OpenFloodAI/OpenFloodAI)](https://github.com/OpenFloodAI/OpenFloodAI/stargazers) 
  
-![alt text](https://image.freepik.com/free-vector/heavy-rain-drops-city-flood-modern-village_40816-423.jpg "Flood image")
-
 # OpenFloodAI
 **OpenFloodAI** is an open-source community dedicated & focused on research & developing solutions for Flood related issues.
 
@@ -42,7 +40,7 @@ Test your changes! Run your changes against any existing tests if they exist and
 ###  Steps to make a Pull Request
 
 ```bash
-git clone https://github.com/your_github_username/openfloodai.github.io.git
+git clone https://github.com/OpenFloodAI/OpenFloodAI.git
 
 cd openfloodai.github.io
 
