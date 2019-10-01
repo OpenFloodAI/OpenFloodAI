@@ -59,6 +59,12 @@ git status
 git push origin branchname
 
 ```
+## Social Media
+Twitter: https://twitter.com/OpenFloodAI
+
+Facebook: https://www.facebook.com/OpenFloodAI
+
+Website: https://openfloodai.github.io
 
 ## And Voila, you have made your first PR! 
 
