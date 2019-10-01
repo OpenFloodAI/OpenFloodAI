@@ -72,5 +72,5 @@ git status
 git push origin branchname
 
 ```
-## And Voila, you have made your first PR!
+## And Voila, you have made your first PR! 🎉
 
