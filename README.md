@@ -81,7 +81,3 @@ Website: https://openfloodai.github.io
 
 ## And Voila, you have made your first PR!
 
-Twitter:https://twitter.com/OpenFloodAI 
-Facebook:https://www.facebook.com/OpenFloodAI 
-website:https://openfloodai.github.io
-
