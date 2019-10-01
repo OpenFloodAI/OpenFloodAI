@@ -1,6 +1,19 @@
 # Welcome to OpenFloodAI
-[![GitHub issues](https://img.shields.io/github/issues/OpenFloodAI/OpenFloodAI)](https://github.com/OpenFloodAI/OpenFloodAI/issues) [![GitHub forks](https://img.shields.io/github/forks/OpenFloodAI/OpenFloodAI)](https://github.com/OpenFloodAI/OpenFloodAI/network) [![GitHub stars](https://img.shields.io/github/stars/OpenFloodAI/OpenFloodAI)](https://github.com/OpenFloodAI/OpenFloodAI/stargazers) 
- 
+[![GitHub issues](https://img.shields.io/github/issues/OpenFloodAI/OpenFloodAI)](https://github.com/OpenFloodAI/OpenFloodAI/issues) [![GitHub forks](https://img.shields.io/github/forks/OpenFloodAI/OpenFloodAI)](https://github.com/OpenFloodAI/OpenFloodAI/network) [![GitHub stars](https://img.shields.io/github/stars/OpenFloodAI/OpenFloodAI)](https://github.com/OpenFloodAI/OpenFloodAI/stargazers)
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
+[3.1]: http://i.imgur.com/0o48UoR.png (github)
+
+[1]: https://twitter.com/OpenFloodAI
+[2]: https://www.facebook.com/OpenFloodAI
+[3]: https://openfloodai.github.io
+
+
 # OpenFloodAI
 **OpenFloodAI** is an open-source community dedicated & focused on research & developing solutions for Flood related issues.
 
@@ -66,7 +79,7 @@ Facebook: https://www.facebook.com/OpenFloodAI
 
 Website: https://openfloodai.github.io
 
-## And Voila, you have made your first PR! 
+## And Voila, you have made your first PR!
 
 Twitter:https://twitter.com/OpenFloodAI 
 Facebook:https://www.facebook.com/OpenFloodAI 
